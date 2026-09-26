@@ -6,4 +6,4 @@ Published site: <https://slotmachinebuddy.github.io/slot-machine-buddy-support/>
 
 Support requests: <https://github.com/slotmachinebuddy/slot-machine-buddy-support/issues>
 
-The policy covers local active-session storage, the Tap When Seen and held-player countdown preferences, automatic planned-turn display, responsible-play limitations, and public support requests.
+The policy covers local active-session storage, the Tap When Seen and held-player countdown preferences, automatic scheduled-turn progress, responsible-play limitations, and public support requests.
