@@ -5,3 +5,5 @@ This public repository contains only the privacy and support site for Slot Machi
 Published site: <https://slotmachinebuddy.github.io/slot-machine-buddy-support/>
 
 Support requests: <https://github.com/slotmachinebuddy/slot-machine-buddy-support/issues>
+
+The policy covers local active-session storage, the Tap When Seen and held-player countdown preferences, automatic planned-turn display, responsible-play limitations, and public support requests.
