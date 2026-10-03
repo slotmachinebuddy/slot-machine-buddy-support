@@ -4,8 +4,8 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="color-scheme" content="dark">
-  <title>Slot Machine Buddy — Privacy &amp; Support</title>
-  <meta name="description" content="Privacy policy, responsible-play information, and support for Slot Machine Buddy.">
+  <title>Independent App Support</title>
+  <meta name="description" content="Privacy policies, troubleshooting, and support for independent iPhone apps.">
   <style>
     :root { color-scheme: dark; --bg:#08101c; --card:#151f2d; --text:#f5f7fa; --muted:#c5cdd8; --blue:#6eb7e8; --amber:#ffca5c; }
     * { box-sizing: border-box; }
@@ -22,22 +22,48 @@
     ul { padding-left:24px; }
     .actions { display:flex; flex-wrap:wrap; gap:12px; justify-content:center; margin:26px 0; }
     .button { display:inline-block; padding:11px 16px; border:1px solid var(--blue); border-radius:999px; text-decoration:none; font-weight:700; }
+    .app-grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(240px,1fr)); gap:14px; }
+    .app-card { background:#101a28; border:1px solid #30445e; border-radius:16px; padding:18px; }
+    .app-card h3 { margin:0 0 6px; }
+    .app-card p { margin:0 0 14px; }
+    .eyebrow { color:var(--blue); font-size:.8rem; font-weight:800; letter-spacing:.08em; text-transform:uppercase; }
     footer { text-align:center; color:var(--muted); font-size:.9rem; margin-top:32px; }
   </style>
 </head>
 <body>
   <main>
     <header>
-      <h1>Slot Machine Buddy</h1>
-      <p class="tagline">Privacy policy, responsible-play information, and support for the iPhone pacing timer.</p>
+      <p class="eyebrow">Independent iPhone apps</p>
+      <h1>App Support</h1>
+      <p class="tagline">Straightforward help, privacy policies, and troubleshooting for independent apps.</p>
       <div class="actions">
-        <a class="button" href="#privacy">Privacy policy</a>
-        <a class="button" href="#responsible-play">Responsible-play help</a>
+        <a class="button" href="#apps">Choose an app</a>
         <a class="button" href="#support">Get support</a>
+        <a class="button" href="#slot-machine-buddy">Slot Machine Buddy</a>
       </div>
     </header>
 
-    <section id="privacy">
+    <section id="apps">
+      <h2>Choose an app</h2>
+      <div class="app-grid">
+        <article class="app-card">
+          <h3>Slot Machine Buddy</h3>
+          <p>An iPhone pacing timer for solo or two-player casino play.</p>
+          <a class="button" href="#slot-machine-buddy">Support &amp; privacy policy</a>
+        </article>
+      </div>
+      <p>Additional independent apps will be listed here as their support pages are ready.</p>
+    </section>
+
+    <section id="support">
+      <h2>Support and contact</h2>
+      <p>Choose your app above first. This lets you use app-specific troubleshooting and privacy information.</p>
+      <p>For the moment, support requests use a public GitHub tracker. Do not post personal, financial, health, account, or location information. A private support email will replace this route after it is created.</p>
+      <p><a class="button" href="https://github.com/slotmachinebuddy/slot-machine-buddy-support/issues/new">Open a public support request</a></p>
+    </section>
+
+    <section id="slot-machine-buddy">
+      <p class="eyebrow">Slot Machine Buddy</p>
       <h2>Privacy policy</h2>
       <p><strong>Effective October 2, 2026</strong></p>
       <p>Slot Machine Buddy does not collect or transmit personal information, usage data, session details, financial information, identifiers, diagnostics, or location data through the app. The app has no accounts, advertising, analytics, tracking, or third-party software development kits.</p>
@@ -89,8 +115,8 @@
       <p>These independent services provide country-specific information and support. If you are elsewhere, use an official local health or gambling-harm service.</p>
     </section>
 
-    <section id="support">
-      <h2>Support and contact</h2>
+    <section>
+      <h2>Slot Machine Buddy support</h2>
       <p>Before contacting support, try these quick checks:</p>
       <ul>
         <li>Use the in-app <strong>Test Turn Alert</strong> button before starting. Sound and vibration alerts play only while the app is open.</li>
@@ -98,7 +124,7 @@
         <li>If the fixed bet changes, end the session and create a new plan so the pace matches the new bet.</li>
         <li>Use <strong>Reset Local Data</strong> in setup to restore saved alert, hold, and break preferences.</li>
       </ul>
-      <p>For app issues, privacy questions, feedback, or feature requests, the current support tracker is public:</p>
+      <p>For Slot Machine Buddy issues, privacy questions, feedback, or feature requests, the current support tracker is public:</p>
       <p><a class="button" href="https://github.com/slotmachinebuddy/slot-machine-buddy-support/issues/new">Open a support request</a></p>
       <p>The support tracker is public. Do not post personal or sensitive information. A private support email will replace this route once it is established. Local app data can be removed by ending the session or deleting the app.</p>
     </section>
@@ -108,7 +134,7 @@
       <p>If the app’s data practices change, this policy and the App Store privacy declaration will be updated before the changed version is distributed. The effective date above identifies the current policy.</p>
     </section>
 
-    <footer>Slot Machine Buddy · Privacy &amp; Support</footer>
+    <footer>Independent App Support · Privacy &amp; Support</footer>
   </main>
 </body>
 </html>

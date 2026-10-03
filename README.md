@@ -1,9 +1,11 @@
-# Slot Machine Buddy Privacy & Support
+# Independent App Support
 
-This public repository contains only the privacy and support site for Slot Machine Buddy. It does not contain the app source code.
+This public repository contains a free GitHub Pages support hub for independent iPhone apps. It does not contain app source code.
 
 Published site: <https://slotmachinebuddy.github.io/slot-machine-buddy-support/>
 
-Support requests: <https://github.com/slotmachinebuddy/slot-machine-buddy-support/issues>
+The current app directory includes Slot Machine Buddy. Its existing policy link remains stable at the site root.
 
-The policy covers local active-session storage, the Tap When Seen and held-player countdown preferences, automatic scheduled-turn progress, responsible-play limitations, and public support requests.
+Support requests are temporarily public: <https://github.com/slotmachinebuddy/slot-machine-buddy-support/issues>. Do not post sensitive information.
+
+See [SUPPORT_PLATFORM_PLAN.md](SUPPORT_PLATFORM_PLAN.md) for the multi-app and private-email rollout plan.
