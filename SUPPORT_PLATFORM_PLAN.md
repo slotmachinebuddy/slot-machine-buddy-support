@@ -11,12 +11,12 @@
 
 1. Maintain a neutral support-home page with one card per app.
 2. Give every app its own clearly labelled troubleshooting, privacy, and policy-change sections.
-3. Keep the public GitHub tracker only as a temporary contact route and clearly warn users not to post sensitive information.
-4. Add a private support email once the address is created and verified; then update each app policy and support page before directing users to it.
+3. Use the private support email for user contact and clearly warn users not to send sensitive information.
+4. Update each app policy and support page before directing users to the address.
 
 ## Generic email recommendation
 
-Use a dedicated, non-personal address such as `independentappsupport@proton.me` if available. It is neutral across apps and does not include a personal name or the Slot Machine Buddy brand. Proton offers a free Mail plan; Gmail is also a free alternative. Check availability during signup and use a password manager plus two-factor authentication. Do not publish an address until the account can receive and reply to mail.
+The dedicated support address is `independentappsupport@proton.me`. It is neutral across apps and does not include a personal name or the Slot Machine Buddy brand. Protect it with a password manager and two-factor authentication. The public site and in-app policy are the official support routes.
 
 ## Future upgrade path
 
